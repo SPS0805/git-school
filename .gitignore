@@ -1,0 +1,14 @@
+# Python
+*.log
+*.pyc
+
+# Django
+/templates
+/static
+
+#VsCode
+.vscode/
+
+# Virtualenv
+.venv/
+venv-*/
